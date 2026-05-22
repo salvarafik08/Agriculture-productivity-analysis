@@ -1,0 +1,4 @@
+Farm_ID,Crop_Type,Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Yield(tons),Soil_Type,Season,Water_Usage(cubic meters)
+F019,Maize,460.93,Drip,1.09,1.31,39.96,Sandy,Zaid,54314.28
+F018,Maize,128.23,Rain-fed,4.91,0.77,16.67,Loamy,Rabi,18660.03
+F009,Maize,389.37,Drip,0.57,4.93,3.86,Peaty,Rabi,60202.14

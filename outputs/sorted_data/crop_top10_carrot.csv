@@ -1,0 +1,5 @@
+Farm_ID,Crop_Type,Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Yield(tons),Soil_Type,Season,Water_Usage(cubic meters)
+F017,Carrot,284.01,Manual,5.89,0.81,47.7,Loamy,Zaid,88301.46
+F002,Carrot,18.67,Manual,4.77,4.36,42.91,Peaty,Kharif,68725.54
+F046,Carrot,112.8,Sprinkler,1.8,1.01,31.57,Clay,Kharif,79966.1
+F032,Carrot,350.42,Flood,8.4,2.94,24.34,Clay,Rabi,71580.87

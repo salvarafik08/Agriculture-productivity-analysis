@@ -1,0 +1,6 @@
+Farm_ID,Crop_Type,Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Yield(tons),Soil_Type,Season,Water_Usage(cubic meters)
+F007,Soybean,360.06,Drip,1.83,2.37,44.93,Sandy,Rabi,40583.57
+F037,Soybean,156.1,Manual,1.18,4.43,40.15,Loamy,Zaid,73646.55
+F035,Soybean,266.03,Drip,8.57,1.35,34.45,Silty,Zaid,43610.21
+F044,Soybean,84.12,Manual,4.64,2.53,24.77,Sandy,Rabi,40614.4
+F010,Soybean,184.37,Drip,2.18,2.67,17.25,Sandy,Kharif,90922.15

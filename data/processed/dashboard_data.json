@@ -1,0 +1,141 @@
+{
+  "kpis": {
+    "total_farms": 50,
+    "avg_yield": 27.06,
+    "total_yield": 1353.0,
+    "avg_efficiency": 91.5,
+    "total_area": 12748.0,
+    "avg_fertilizer": 4.91
+  },
+  "crop_yield": [
+    {
+      "Crop": "Barley",
+      "AvgYield": 26.4,
+      "Count": 7
+    },
+    {
+      "Crop": "Carrot",
+      "AvgYield": 36.63,
+      "Count": 4
+    },
+    {
+      "Crop": "Cotton",
+      "AvgYield": 20.97,
+      "Count": 7
+    },
+    {
+      "Crop": "Maize",
+      "AvgYield": 20.16,
+      "Count": 3
+    },
+    {
+      "Crop": "Potato",
+      "AvgYield": 25.16,
+      "Count": 4
+    },
+    {
+      "Crop": "Rice",
+      "AvgYield": 23.59,
+      "Count": 5
+    },
+    {
+      "Crop": "Soybean",
+      "AvgYield": 32.31,
+      "Count": 5
+    },
+    {
+      "Crop": "Sugarcane",
+      "AvgYield": 26.95,
+      "Count": 5
+    },
+    {
+      "Crop": "Tomato",
+      "AvgYield": 33.63,
+      "Count": 6
+    },
+    {
+      "Crop": "Wheat",
+      "AvgYield": 24.42,
+      "Count": 4
+    }
+  ],
+  "irrigation": [
+    {
+      "Type": "Drip",
+      "AvgYield": 26.77,
+      "AvgFertilizer": 5.13,
+      "AvgWater": 52684.21
+    },
+    {
+      "Type": "Flood",
+      "AvgYield": 20.89,
+      "AvgFertilizer": 5.36,
+      "AvgWater": 66128.15
+    },
+    {
+      "Type": "Manual",
+      "AvgYield": 34.16,
+      "AvgFertilizer": 3.77,
+      "AvgWater": 55561.71
+    },
+    {
+      "Type": "Rain-fed",
+      "AvgYield": 31.98,
+      "AvgFertilizer": 4.28,
+      "AvgWater": 47526.66
+    },
+    {
+      "Type": "Sprinkler",
+      "AvgYield": 27.89,
+      "AvgFertilizer": 5.11,
+      "AvgWater": 57803.19
+    }
+  ],
+  "season": [
+    {
+      "Season": "Kharif",
+      "AvgYield": 27.34,
+      "AvgEfficiency": 99.38,
+      "AvgArea": 283.2
+    },
+    {
+      "Season": "Rabi",
+      "AvgYield": 24.67,
+      "AvgEfficiency": 70.03,
+      "AvgArea": 246.41
+    },
+    {
+      "Season": "Zaid",
+      "AvgYield": 28.0,
+      "AvgEfficiency": 96.26,
+      "AvgArea": 239.41
+    }
+  ],
+  "soil": [
+    {
+      "SoilType": "Clay",
+      "AvgYield": 25.04,
+      "AvgFertilizer": 5.25
+    },
+    {
+      "SoilType": "Loamy",
+      "AvgYield": 27.48,
+      "AvgFertilizer": 6.19
+    },
+    {
+      "SoilType": "Peaty",
+      "AvgYield": 23.47,
+      "AvgFertilizer": 3.99
+    },
+    {
+      "SoilType": "Sandy",
+      "AvgYield": 27.03,
+      "AvgFertilizer": 2.98
+    },
+    {
+      "SoilType": "Silty",
+      "AvgYield": 30.89,
+      "AvgFertilizer": 5.49
+    }
+  ]
+}

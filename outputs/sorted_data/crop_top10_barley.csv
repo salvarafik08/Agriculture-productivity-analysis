@@ -1,0 +1,8 @@
+Farm_ID,Crop_Type,Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Yield(tons),Soil_Type,Season,Water_Usage(cubic meters)
+F033,Barley,446.76,Drip,7.79,0.96,46.47,Loamy,Zaid,93656.06
+F038,Barley,431.22,Drip,5.71,3.18,45.95,Silty,Kharif,36065.94
+F049,Barley,462.37,Sprinkler,2.3,0.14,39.51,Clay,Kharif,53879.87
+F020,Barley,58.85,Sprinkler,3.61,3.32,18.85,Sandy,Kharif,92481.89
+F016,Barley,60.22,Flood,2.19,0.35,16.03,Sandy,Zaid,25132.48
+F031,Barley,136.16,Flood,5.89,1.36,11.86,Clay,Zaid,30098.35
+F025,Barley,75.64,Flood,6.69,3.57,6.14,Silty,Zaid,43847.82

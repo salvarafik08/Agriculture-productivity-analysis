@@ -1,0 +1,6 @@
+Farm_ID,Crop_Type,Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Yield(tons),Soil_Type,Season,Water_Usage(cubic meters)
+F006,Sugarcane,12.5,Sprinkler,6.42,2.25,38.18,Loamy,Zaid,46487.98
+F003,Sugarcane,306.03,Flood,2.91,0.56,33.44,Silty,Kharif,75538.56
+F015,Sugarcane,305.15,Rain-fed,5.39,2.15,28.77,Peaty,Kharif,33615.77
+F042,Sugarcane,418.99,Sprinkler,0.78,0.58,26.29,Clay,Zaid,33705.69
+F012,Sugarcane,145.32,Flood,3.01,2.27,8.08,Clay,Kharif,88976.51

@@ -1,0 +1,8 @@
+Farm_ID,Crop_Type,Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Yield(tons),Soil_Type,Season,Water_Usage(cubic meters)
+F040,Cotton,166.82,Rain-fed,2.85,1.36,46.19,Sandy,Zaid,12007.7
+F021,Cotton,377.05,Drip,5.95,0.91,29.17,Clay,Rabi,26743.55
+F027,Cotton,375.1,Rain-fed,0.5,4.76,22.51,Clay,Kharif,39362.44
+F001,Cotton,329.4,Sprinkler,8.14,2.21,14.44,Loamy,Kharif,76648.2
+F036,Cotton,446.16,Manual,4.35,3.47,12.53,Loamy,Zaid,38874.28
+F043,Cotton,78.79,Flood,1.35,3.0,11.45,Sandy,Zaid,94754.73
+F039,Cotton,220.48,Flood,9.96,2.91,10.53,Clay,Zaid,82549.03

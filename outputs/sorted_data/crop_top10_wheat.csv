@@ -1,0 +1,5 @@
+Farm_ID,Crop_Type,Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Yield(tons),Soil_Type,Season,Water_Usage(cubic meters)
+F029,Wheat,288.52,Manual,1.79,4.78,36.9,Silty,Zaid,23208.04
+F022,Wheat,92.67,Flood,6.95,3.64,30.7,Clay,Rabi,42874.34
+F026,Wheat,162.28,Flood,5.85,2.42,24.63,Loamy,Rabi,65838.4
+F013,Wheat,329.1,Drip,5.26,0.83,5.44,Clay,Zaid,45922.35

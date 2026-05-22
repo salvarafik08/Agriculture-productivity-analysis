@@ -1,0 +1,6 @@
+Farm_ID,Crop_Type,Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Yield(tons),Soil_Type,Season,Water_Usage(cubic meters)
+F041,Rice,370.79,Flood,8.18,4.99,35.01,Sandy,Kharif,85208.71
+F024,Rice,483.88,Drip,6.31,2.29,34.46,Clay,Zaid,61383.07
+F011,Rice,279.95,Drip,8.02,1.24,32.85,Clay,Zaid,5869.75
+F014,Rice,246.02,Flood,1.01,3.45,11.38,Sandy,Rabi,71953.14
+F008,Rice,464.6,Drip,5.18,0.91,4.23,Silty,Kharif,9392.38

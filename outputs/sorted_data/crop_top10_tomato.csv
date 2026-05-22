@@ -1,0 +1,7 @@
+Farm_ID,Crop_Type,Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Yield(tons),Soil_Type,Season,Water_Usage(cubic meters)
+F028,Tomato,256.19,Flood,7.32,2.19,48.02,Silty,Rabi,81313.04
+F050,Tomato,292.25,Rain-fed,4.08,0.76,45.14,Silty,Kharif,90232.08
+F005,Tomato,135.56,Sprinkler,8.33,4.48,43.28,Clay,Zaid,93718.69
+F004,Tomato,380.21,Rain-fed,3.32,4.35,34.08,Silty,Zaid,45401.23
+F045,Tomato,326.69,Sprinkler,5.24,0.55,18.34,Peaty,Kharif,37466.11
+F034,Tomato,264.12,Drip,4.75,4.79,12.92,Loamy,Rabi,92745.01

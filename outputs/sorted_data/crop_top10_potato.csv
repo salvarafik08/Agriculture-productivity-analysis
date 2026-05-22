@@ -1,0 +1,5 @@
+Farm_ID,Crop_Type,Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Yield(tons),Soil_Type,Season,Water_Usage(cubic meters)
+F047,Potato,347.66,Drip,3.86,2.68,31.47,Sandy,Kharif,86989.88
+F030,Potato,286.52,Rain-fed,8.91,0.77,30.5,Loamy,Zaid,93407.38
+F048,Potato,77.39,Sprinkler,9.34,3.0,20.53,Silty,Zaid,5874.17
+F023,Potato,15.67,Drip,9.95,2.99,18.13,Loamy,Zaid,41862.86
